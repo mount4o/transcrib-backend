@@ -1,6 +1,5 @@
 Flask==3.0.3
 googletrans==3.0.0
 Werkzeug==3.0.3
-whisper==1.1.10
 whisper @ git+https://github.com/openai/whisper.git
 gunicorn==22.0.0
