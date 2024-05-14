@@ -2,3 +2,4 @@ Flask==3.0.3
 googletrans==3.0.0
 Werkzeug==3.0.3
 whisper==1.1.10
+gunicorn==22.0.0
