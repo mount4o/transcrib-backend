@@ -20,6 +20,7 @@ googleapis-common-protos=1.63.0=pypi_0
 googletrans=3.1.0a0=pypi_0
 grpcio=1.63.0=pypi_0
 grpcio-status=1.48.2=pypi_0
+gunicorn=22.0.0=py312h81bd7bf_0
 h11=0.9.0=pypi_0
 h2=3.2.0=pypi_0
 hpack=3.0.0=pypi_0
@@ -45,6 +46,7 @@ numba=0.59.1=pypi_0
 numpy=1.26.4=pypi_0
 openai-whisper=20231117=pypi_0
 openssl=3.3.0=h0d3ecfb_0
+packaging=24.0=pyhd8ed1ab_0
 pip=24.0=pyhd8ed1ab_0
 protobuf=3.20.3=pypi_0
 pyasn1=0.6.0=pypi_0
